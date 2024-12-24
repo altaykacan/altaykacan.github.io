@@ -29,42 +29,21 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
-          url: archives
-          weight: 5
+        - name: About
+          url: about/
+          weight: 10
+        - name: Posts
+          url: posts/
+          weight: 20
         - name: Search
           url: search/
-          weight: 10
+          weight: 30
         - name: Tags
           url: tags/
-          weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-
-  fr:
-    languageName: ":fr:"
-    weight: 2
-    title: PaperModL2
-    taxonomies:
-      category: FRcategories
-      tag: FRtags
-      series: FRseries
-    menu:
-      main:
+          weight: 40
         - name: Archive
-          url: archives/
-          weight: 5
-        - name: FRTags
-          url: frtags
-          weight: 10
-        - name: FRCategories
-          url: frcategories
-          weight: 10
-        - name: FRSeries
-          url: frseries
-          weight: 10
-        - name: NullLink
-          url: "#"
+          url: archives
+          weight: 50
 
 
 outputs:
@@ -75,8 +54,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  description: "Personal Learning and Musing Blog"
+  author: Altay Kacan
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -97,7 +76,7 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
+    title: Bits'n Bobs
     imageUrl: "#"
     imageTitle: my image
     # imageWidth: 120
@@ -109,13 +88,13 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
-    Content: hello world!
+    Title: "Bits'n Bobs - Personal Learnings & Musings"
+    Content: Hi!! Welcome to my personal blog where I document and share my learning notes, interesting ideas I come across, and some thoughts about books I read. Here you can find posts about machine learning, deep generative modeling, geometric modeling, and psychology.
 
   socialIcons:
     - name: github
       title: View Source on Github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
+      url: "https://github.com/altaykacan"
     # - name: LinkedIn
     #   title: Add me on LinkedIn!
     #   url: "ADD LINK"
@@ -123,10 +102,10 @@ params:
       title: Check out my X/Twitter
       url: "https://x.com/altaykacan"
 
-  editPost:
-    URL: "https://github.com/altaykacan/altaykacan.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/altaykacan/altaykacan.github.io/tree/main/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # label:
   # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
