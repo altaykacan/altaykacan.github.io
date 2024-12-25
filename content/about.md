@@ -8,10 +8,13 @@ TocOpen: false
 ---
 
 ## Who am I?
+...
 
 ## Why Write this Blog?
+...
 
 ## Acknowledgements
+...
 
 
 

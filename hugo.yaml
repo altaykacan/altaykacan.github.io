@@ -1,9 +1,9 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://altaykacan.github.io/"
-title: PaperMod
+title: Tangents of Thought
 # copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
-paginate: 5
+pagination.pagerSize: 5
 theme: [PaperMod]
 
 enableInlineShortcodes: true
@@ -71,35 +71,35 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  # comments: false
+  comments: false
   images: ["images/papermod-cover.png"]
 
-  profileMode:
-    enabled: false
-    title: Bits'n Bobs
-    imageUrl: "#"
-    imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
+  # profileMode:
+  #   enabled: false
+  #   title: Bits'n Bobs
+  #   imageUrl: "#"
+  #   imageTitle: my image
+  #   # imageWidth: 120
+  #   # imageHeight: 120
+  #   buttons:
+  #     - name: Archives
+  #       url: archives
+  #     - name: Tags
+  #       url: tags
 
   homeInfoParams:
-    Title: "Bits'n Bobs - Personal Learnings & Musings"
-    Content: Hi!! Welcome to my personal blog where I document and share my learning notes, interesting ideas I come across, and some thoughts about books I read. Here you can find posts about machine learning, deep generative modeling, geometric modeling, and psychology.
+    Title: "Tangents of Thought - Learnings & Musings"
+    Content: Hi! Welcome to my personal blog. I'm Altay and this is where I document and share my learning, interesting ideas I come across, and some thoughts about books I read. Here you can find posts about machine learning, engineering, and psychology. Hope you enjoy reading my ramblings :)
 
   socialIcons:
     - name: github
-      title: View Source on Github
+      title: Check out my GitHub profile!
       url: "https://github.com/altaykacan"
     # - name: LinkedIn
     #   title: Add me on LinkedIn!
     #   url: "ADD LINK"
     - name: X
-      title: Check out my X/Twitter
+      title: Check out my X/Twitter!
       url: "https://x.com/altaykacan"
 
   # editPost:
@@ -119,11 +119,11 @@ params:
 
   assets:
     disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>"
+    favicon: "/assets/favicon.ico"
+    # favicon16x16: "/assets/favicon-16x16.png"
+    # favicon32x32: "/assets/favicon-32x32.png"
+    # apple_touch_icon: "/assets/apple-touch-icon.png"
+    # safari_pinned_tab: "<link / abs url>"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data

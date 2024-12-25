@@ -1,9 +1,12 @@
 ---
 author: "Altay"
-title: "Why I Don't Use Social Media"
+title: "Why Work on (Deep) Generative Models?"
 date: "2024-12-25"
 description: "This is a collection of articles that I aim to research, write, and post on this blog!"
+summary: "..."
+tags: ["...", "...", "...", "..."]
 ShowToc: true
 TocOpen: false
-# draft: true
+draft: false
+math: true
 ---
