@@ -3,8 +3,6 @@ author: "Altay"
 title: "Ideas"
 date: "2024-12-24"
 description: "This is a collection of articles that I aim to research, write, and post on this blog!"
-ShowToc: false
-TocOpen: false
 robotsNoIndex: true
 draft: false
 ---

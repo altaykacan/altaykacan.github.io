@@ -88,8 +88,8 @@ params:
   #       url: tags
 
   homeInfoParams:
-    Title: "Tangents of Thought - Learnings & Musings"
-    Content: Hi! Welcome to my personal blog. I'm Altay and this is where I document and share my learning, interesting ideas I come across, and some thoughts about books I read. Here you can find posts about machine learning, engineering, and psychology. Hope you enjoy reading my ramblings :)
+    Title: "Hi there!"
+    Content: Welcome to *Tangents of Thought*. This is where I share my learnings and musings. You can expect technical posts on machine learning, deep generative modeling, 3D computer vision, 3D CAD, engineering, and even some psychology.
 
   socialIcons:
     - name: github
