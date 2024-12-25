@@ -19,6 +19,6 @@ I love learning new things and always struggled to make sure I don't forget abou
 I believe explaining complex things in an intuitive and understandable way is the best method to actually learn it yourself. You have to remember what you studied, summarize it, and present it in a structured way for others to understand. Writing easy-to-understand but detailed and comprehensive technical posts is what I want to do here. That's what brings me to my little corner of the internet to share the stuff I learn. Even if it helps one person understand something they did not understand before, that would be a success in my books :)
 
 ## Acknowledgements
-I love the amazing blog of [Lilian Weng](https://lilianweng.github.io/), so the style and content are greatly inspired by it. I'm also thankful to the Turkish YouTuber Barış Özcan and especially [this](https://www.youtube.com/watch?v=GQEKkTug1Zk) from him that talks about the importance of sharing what you learn with the world and creating something new.
+I love the amazing blog of [Lilian Weng](https://lilianweng.github.io/), so the style and content are greatly inspired by it. 
 
 
