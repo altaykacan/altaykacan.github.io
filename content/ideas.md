@@ -20,10 +20,11 @@ Building machines
 - Why Work on Generative Models?
 
 
-Being human
+Being human (these can wait)
 - Why I Barely Use Social Media
 - Cognitive Distortions
 - Why We Love Games
+- My Current Learning System
 
 
 
