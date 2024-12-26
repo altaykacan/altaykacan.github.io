@@ -1,13 +1,11 @@
 ---
 author: "Altay"
-title: "About"
+title: "About this Blog..."
 date: "2024-12-24"
-description: "This page contains some info about myself, why I am writing this blog, and some acknowledgements."
+description: "Here's a quick intro to me, this blog, why it exists, and some acknowledgements at the end."
 ShowToc: false
 TocOpen: false
 ---
-# About this Blog...
-Here's a quick intro to me, this blog, why it exists, and some acknowledgements at the end.
 
 ## Who am I?
 I'm Altay, a mechanical engineer-turned AI and deep learning person. I started doing an industrial PhD at [TUM](https://www.tum.de/) in September 2024 with a focus on 3D CAD and deep generative models. My dream is to be able to *teach machines how to design and build other machines*. All coolness aside, that would drastically accelerate and improve all the machines that engineers design.
