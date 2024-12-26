@@ -1,6 +1,6 @@
 ---
 title: Building Machines
-summary: Contains posts related to computers, deep learning, and all kinds of machines.
-description: Contains posts related to machine learning, deep learning, generative models, computer vision, computers, robotics, AI, and mechanical engineering.
+summary: Posts about deep learning, generative models, and all kinds of machines.
+description: Here are my posts about to machine learning, deep learning, generative models, computer vision, computers, robotics, AI, and mechanical engineering.
 ---
 
