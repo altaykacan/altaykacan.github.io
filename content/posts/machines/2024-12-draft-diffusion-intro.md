@@ -13,6 +13,8 @@ math: true
 
 ## hello
 
+$$\sum_i^N e^x$$
+
 ### test
 Here’s a filler text that flows smoothly, which you can use as needed:
 

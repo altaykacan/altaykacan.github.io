@@ -74,6 +74,13 @@ Tables aren't part of the core Markdown spec, but Hugo supports them out-of-the-
 
 *Emojis*
 
-You can put them inline or even as part of headers, it works! Check it out:
+You can put them inline or even as part of headers, it works!
 
-## Using emojis 🙈
+
+
+*Centering images*
+
+
+```markdown
+![name](path/to/image.png#center)
+```
