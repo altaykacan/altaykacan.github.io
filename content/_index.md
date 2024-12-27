@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to *Tangents of Thought*. This is my little corner of the internet where I share and document my learning. You can expect to find posts about machine learning, deep generative models, computer vision, 3D <abbr title="Computer-Aided Design">CAD</abbr>, and engineering.
+Welcome to *Tangents of Thought*. This is my little corner of the internet where I share and document my learning. You can expect to find posts about machine learning, computer vision, 3D <abbr title="Computer-Aided Design">CAD</abbr>, and engineering.
 
 Head on to the [About](/about) page to learn more about who I am and why this blog exists.
 

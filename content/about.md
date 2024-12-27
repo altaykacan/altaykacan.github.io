@@ -1,3 +1,12 @@
+---
+date: 2024-12-26
+showDate: false
+showAuthor: false
+showWordCount: false
+showZenMode: false
+showReadingTime: false
+showBreadcrumbs: true
+---
 # About this Blog...
 Here is a quick intro of who I am, why this blog exists, and some acknowledgements!
 
