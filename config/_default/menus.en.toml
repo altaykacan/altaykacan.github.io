@@ -17,12 +17,12 @@
 
 [[main]]
  name = "Building Machines"
- pageRef = "posts/machines"
+ pageRef = "machines"
  weight = 10
 
 [[main]]
  name = "Being Human"
- pageRef = "posts/humans"
+ pageRef = "humans"
  weight = 20
 
  [[main]]
@@ -32,6 +32,12 @@
   url = "https://github.com/altaykacan/"
   weight = 50
 
+ [[main]]
+  pre = "x-twitter"
+  name = ""
+  identifier="twitter_account"
+  url = "https://x.com/altaykacan"
+  weight = 50
 
 # [[main]]
 #  name = "Parent"
